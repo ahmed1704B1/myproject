@@ -15,8 +15,7 @@
 <option>choose</option>
 <option selected="pakistan"></option>
 <option>USA</option>
-<option>UK</option>
-<option>FA</option>
+
 </SELECT></p>
 <p><label>Gender</label>
 <input type="radio" name="gen" value="male" checked/> male
